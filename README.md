@@ -16,6 +16,10 @@ This repository contains materials for the class of Spring 2020.
 	- Each team needs to sign up for two slots: one for topic
       presentation and the other for project progress.
 	- The sign up period includes week 5 to week 10
+	- See an introduction on [how to make a pull request](https://www.toutiao.com/i6802407179866341891/).
+    - Be informative in each of your commit message. "Update
+	signup.md" is not a good one; think about what we will see in the
+	Git log if every team uses this message.
 
 Here is a template for the sheet. 
 
@@ -42,5 +46,3 @@ Date      | Slot       | Team      | Presenters       | Topic
 04/17   |  2          |               |                         |
 04/17	 |  3          |               |                         | 
 04/17   |  4          |               |                         |
-
-
